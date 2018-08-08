@@ -11,8 +11,7 @@
 * _Step 1_: Run the file Gun-Violence.ipynb
 * _Step 2_: BayesianApproach.ipynb
 2. Gun laws effecting gun violence across the US states
-* _Step 1_: Run the data_cleaning_gun_laws_for_NN.ipynb
-* _Step 2_: Run the gun_laws_nn.ipynb
+* _Step 1_: Run NN_lawsVScrude_rate.ipynb
 3. US compared to other countries in the world
 * _Step 1_ : Run global.ipynb
 ****
