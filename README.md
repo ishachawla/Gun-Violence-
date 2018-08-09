@@ -28,7 +28,7 @@
 ****
 
 ##### Data Files
-To access the data files please refer to the following link to the drive
+To access the data files please refer to the following link to the drive through your husky id
 https://drive.google.com/drive/u/1/folders/1OJT5Qp9YEAzVpIXP7bRaciRiCEaRPVD6
 
 
