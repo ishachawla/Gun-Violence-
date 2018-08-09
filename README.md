@@ -24,14 +24,15 @@
 3. US compared to other countries in the world
 * _Step 1_ : Run global.ipynb 
 <a>https://github.com/ishachawla/Gun-Violence-/blob/master/global.ipynb </a>
-> Gives an understanding how US fares compared to other countries in the world in terms of gun violence. Deep dives into predicting the future rise or fall in gun violence using regression models
+> Gives an understanding how US fares compared to other countries in the world in terms of gun violence. Deep dives into predicting the future rise or fall in gun violence using regression models.
 ****
-##### Python Libraries: 
+
+### Python Libraries: 
 - `scikit-learn, pymc3, plotly, seaborn, keras, pandas, numpy, statsmodel, wordcloud, tensorflow`
 ****
 
-##### Data Files
-To access the data files please refer to the following link to the drive through your husky id
+### Data Files:
+* To access the data files please refer to the following link to the drive through your husky id
 https://drive.google.com/drive/u/1/folders/1OJT5Qp9YEAzVpIXP7bRaciRiCEaRPVD6
 
 
