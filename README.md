@@ -27,7 +27,7 @@
 - `scikit-learn, pymc3, plotly, seaborn, keras, pandas, numpy, statsmodel, wordcloud
 ****
 
-##### Data File
+##### Data Files
 To access the data files please refer to the following link to the drive
 https://drive.google.com/drive/u/1/folders/1OJT5Qp9YEAzVpIXP7bRaciRiCEaRPVD6
 
