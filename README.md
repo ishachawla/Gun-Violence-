@@ -19,12 +19,15 @@
 > Leveraging MCMC to build a model that can efficiently understand the priors for each states and build a model that can be used to forecast what the future can hold.
 
 2. Gun laws effecting gun violence across the US states
-* _Step 1_: Run NN_lawsVScrude_rate.ipynb
+* _Step 1_: Run NN_lawsVScrude_rate.ipynb <a> https://github.com/ishachawla/Gun-Violence-/blob/master/NN_lawsVScrude_rate.ipynb </a>
+
 3. US compared to other countries in the world
-* _Step 1_ : Run global.ipynb
+* _Step 1_ : Run global.ipynb 
+<a>https://github.com/ishachawla/Gun-Violence-/blob/master/global.ipynb </a>
+> Gives an understanding how US fares compared to other countries in the world in terms of gun violence
 ****
 ##### Python Libraries: 
-- `scikit-learn, pymc3, plotly, seaborn, keras, pandas, numpy, statsmodel, wordcloud
+- `scikit-learn, pymc3, plotly, seaborn, keras, pandas, numpy, statsmodel, wordcloud, tensorflow
 ****
 
 ##### Data Files
